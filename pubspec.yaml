@@ -1,0 +1,28 @@
+name: network_inspect
+description: Debug-only Flutter network inspector with draggable overlay, live request logs, and API detail bottom sheets.
+version: 0.1.0
+homepage: https://github.com/dropit-io/network_inspect
+repository: https://github.com/dropit-io/network_inspect
+issue_tracker: https://github.com/dropit-io/network_inspect/issues
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.6
+  equatable: ^2.0.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+topics:
+  - network
+  - debug
+  - inspector
+  - logging
+  - overlay
