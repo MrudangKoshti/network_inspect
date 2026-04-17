@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.1
+
+- Fixed metadata links to the correct GitHub repository and issue tracker.
+- Minor publish-readiness updates and documentation polish.
+
 ## 0.1.0
 
 - Renamed package to `network_inspect`
